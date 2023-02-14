@@ -1,5 +1,5 @@
 # hate_speech_study
-논문도 읽고 데이터셋도 만셔보는 원맨쇼 디렉토리
+논문도 읽고 데이터셋도 만져보는 원맨쇼 디렉토리
 
 # Paperlist
 - There is no place for hate speech in the world
