@@ -11,6 +11,17 @@
 - Benchmarking Intersectional Biases in NLP
 - Bias Mitigation for Toxicity Detection via Sequential Decisions
 - Automated Hate Speech Detection and the Problem of Offensive Language
+- A Tale of Two Languages: Cross-Lingual Transfer Learning for Hate Speech Detection
+- Counterfactually Augmented Data and Unintended Bias: The Case of Sexism and Hate Speech Detection
+- Counter Hate Speech Detection in Social Media: A Survey
+- Hate speech detection and racial bias mitigation in social media based on BERT model
+- Improving Generalization of Hate Speech Detection Systems to Novel Target Groups via Domain Adaptation
+- Reinforcement Guided Multi-Task Learning Framework for Low-Resource Stereotype Detection
+- Countering Fake News and Hate Speech on Social Media Platforms
+- The Capacity for Moral Self-Correction in Large Language Models
+- Explaining Toxic Text via Knowledge Enhanced Text Generation
+- Past, Present, and Future: Conversational Emotion Recognition through Structural Modeling of Psychological Knowledge
+- On Measures of Biases and Harms in NLP
 
 # Dataset
 - Apeach
